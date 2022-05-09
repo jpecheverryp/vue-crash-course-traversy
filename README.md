@@ -1,5 +1,9 @@
 # crash-course-traversy
 
+## VUE Crash Course Brad Traversy
+<a href='https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=4399s'> Link to video </a>
+
+
 ## Project setup
 ```
 npm install
